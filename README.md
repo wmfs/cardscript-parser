@@ -10,7 +10,7 @@ $ npm install cardscript-parser --save
 ## <a name="usage"></a>Usage
 
 ```javascript
-const parser = require('cardscript-parser')
+const parser = require('@wmfs/cardscript-parser')
 
 const cardscriptObject = parser(
   `{

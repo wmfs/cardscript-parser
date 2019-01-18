@@ -4,7 +4,7 @@
 const parse = require('./../lib/')
 const chai = require('chai')
 const expect = chai.expect
-const examples = require('cardscript-examples')
+const examples = require('@wmfs/cardscript-examples')
 const YAML = require('yamljs')
 
 describe('Run Cardscript parsing tests', function () {
