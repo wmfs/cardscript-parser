@@ -3,6 +3,10 @@
   "description": "Like JSON.parse(), but for Cardscript. And it supports YAML.",
   "version": "0.0.6",
   "author": "Tim Needham",
+  "keywords": [
+    "tymly",
+    "cardscript"
+  ],
   "main": "./lib/index.js",
   "dependencies": {
     "lodash": "^4.17.5",
