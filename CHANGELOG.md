@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/wmfs/cardscript-parser/compare/v1.0.0...v1.1.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([039a3d4](https://github.com/wmfs/cardscript-parser/commit/039a3d4))
+* Remove package.json from uprn-encode-decode. ([433aefe](https://github.com/wmfs/cardscript-parser/commit/433aefe))
+
+
+### 📚 Documentation
+
+* update readme with badges ([2307757](https://github.com/wmfs/cardscript-parser/commit/2307757))
+
 # 1.0.0 (2019-01-18)
 
 
