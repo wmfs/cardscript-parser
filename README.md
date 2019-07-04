@@ -1,7 +1,7 @@
 # cardscript-parser
 
 [![Tymly Cardscript](https://img.shields.io/badge/tymly-cardscript-blue.svg)](https://tymly.io/)
-[![Build Status](https://travis-ci.com/wmfs/cardscript-parser.svg?branch=master)](https://travis-ci.com/wmfs/cardscript-parser)
+[![CircleCI](https://circleci.com/gh/wmfs/cardscript-parser.svg?style=svg)](https://circleci.com/gh/wmfs/cardscript-parser)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/cardscript-parser.svg)](https://www.npmjs.com/package/@wmfs/cardscript-parser) 
 [![codecov](https://codecov.io/gh/wmfs/cardscript-parser/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/cardscript-parser) 
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/cardscript-parser/badge)](https://www.codefactor.io/repository/github/wmfs/cardscript-parser) 
