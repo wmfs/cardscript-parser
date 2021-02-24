@@ -1,3 +1,40 @@
+# [1.3.0](https://github.com/wmfs/cardscript-parser/compare/v1.2.0...v1.3.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([995f508](https://github.com/wmfs/cardscript-parser/commit/995f508e6058a8d600969d0b88d616e70775d524))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([39668a1](https://github.com/wmfs/cardscript-parser/commit/39668a1dd6079868113b872d964a55366964b8b1))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([e3f01ea](https://github.com/wmfs/cardscript-parser/commit/e3f01ea62c5f4dc9e8bdeccfc8108f67db5a4029))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([15d654f](https://github.com/wmfs/cardscript-parser/commit/15d654f94375ee96e19666f744c57f247988ed75))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([85fe76b](https://github.com/wmfs/cardscript-parser/commit/85fe76bc2f4c65a585bd73c172bab34a95447d05))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([7a73162](https://github.com/wmfs/cardscript-parser/commit/7a731627340a829ab70be038c7df35aee7662d19))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([b38a3cf](https://github.com/wmfs/cardscript-parser/commit/b38a3cf2fd3b47ef2cb1c08525267547c8b8edaf))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([49ced2f](https://github.com/wmfs/cardscript-parser/commit/49ced2f1c821bfcbd4dddf5270d4c0b9bc75ad36))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([c8988ab](https://github.com/wmfs/cardscript-parser/commit/c8988ab5cba4e4047705131aa4084c0976f40ef2))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([abe695e](https://github.com/wmfs/cardscript-parser/commit/abe695e76fa13b563f719fb2f0ba1ce8a04083f0))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([e5ad6d3](https://github.com/wmfs/cardscript-parser/commit/e5ad6d38c7b4d3747f073ff848dc47fe97be6659))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([9d6c62e](https://github.com/wmfs/cardscript-parser/commit/9d6c62eb02b2f8d4ac881e159d4484ed8015ce1c))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([9b793e3](https://github.com/wmfs/cardscript-parser/commit/9b793e3d8bddc2bef2f107fab1c9a9908f4e75ff))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([972131e](https://github.com/wmfs/cardscript-parser/commit/972131e93e0ff0f5fc8519a673af6e6c3cec480b))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([bb16f0c](https://github.com/wmfs/cardscript-parser/commit/bb16f0cfb5b12549c1974eaeb6da82ac6f6b9a4f))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([796ef3f](https://github.com/wmfs/cardscript-parser/commit/796ef3f336a8e1d389b7076d288f81e6efcce574))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([c28d661](https://github.com/wmfs/cardscript-parser/commit/c28d661490eda4b557ec5a15c63878fee4fcc7fc))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([543faa8](https://github.com/wmfs/cardscript-parser/commit/543faa8a52632fab83279bb47ed3c61dc1510ca3))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([80f4a56](https://github.com/wmfs/cardscript-parser/commit/80f4a568bf556dd27affaab899111aab3b261f07))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([09f3888](https://github.com/wmfs/cardscript-parser/commit/09f38884774641d70e6c8230679ac47372197d5d))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([6d39eea](https://github.com/wmfs/cardscript-parser/commit/6d39eea763fe0d77ce848d478e058a1fc8e3a0b0))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([904cf2e](https://github.com/wmfs/cardscript-parser/commit/904cf2ed78e2071d79dd446f42ee2da15b02ead8))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([b04b8b0](https://github.com/wmfs/cardscript-parser/commit/b04b8b04b18f45664a4eec6b9d699ebab5f4d507))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([9eca043](https://github.com/wmfs/cardscript-parser/commit/9eca04321712029bd4fda529f2821d1cff18d44b))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([2c74fac](https://github.com/wmfs/cardscript-parser/commit/2c74facc7cb6300db45d607c7ee1b2d5db091c59))
+* **circle:** cache dependencies [ch2770] ([7356070](https://github.com/wmfs/cardscript-parser/commit/73560703c809c0bbcc3c46c917a06342ad931985))
+* **circle:** update build environment variable context name [ch2771] ([86de1d2](https://github.com/wmfs/cardscript-parser/commit/86de1d266a2e9550568a04e3e3de8f939c0d9e3b))
+
 # [1.2.0](https://github.com/wmfs/cardscript-parser/compare/v1.1.0...v1.2.0) (2020-10-19)
 
 
