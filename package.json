@@ -15,13 +15,14 @@
   "devDependencies": {
     "chai": "4.3.10",
     "codecov": "3.8.3",
-    "conventional-changelog-metahub": "4.0.1",
+    "conventional-changelog-conventionalcommits": "8.0.0",
     "cz-conventional-changelog": "3.3.0",
     "mocha": "10.2.0",
     "nyc": "15.1.0",
     "semantic-release": "22.0.6",
     "standard": "17.1.0",
     "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/release-notes-generator": "14.0.3",
     "@semantic-release/git": "10.0.1",
     "@wmfs/cardscript-examples": "1.22.0"
   },
