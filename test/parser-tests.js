@@ -82,7 +82,7 @@ describe('Run Cardscript parsing tests', function () {
   it('should fail to parse nonsense', function () {
     const result = parse('THIS IS NOT VALID CARDSCRIPT!')
     expect(result.errors[0].property).to.eql('string')
-    expect(result.errors[0].message.toString()).to.eql('SyntaxError: Unexpected token T in JSON at position 0')
+    expect(result.errors[0].message.toString()).to.eql('SyntaxError: Unexpected token \'T\', "THIS IS NO"... is not valid JSON')
   })
 
   it('should parse some simple YAML', function () {
