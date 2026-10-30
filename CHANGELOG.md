@@ -1,3 +1,22 @@
+## [1.5.0](https://github.com/wmfs/cardscript-parser/compare/v1.4.1...v1.5.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([c8bd6ae](https://github.com/wmfs/cardscript-parser/commit/c8bd6ae7319c31a274d4042f922e0ee878822727))
+* **deps-dev:** update dependency @wmfs/cardscript-examples to v1.23.1 ([#264](https://github.com/wmfs/cardscript-parser/issues/264)) ([8f67a50](https://github.com/wmfs/cardscript-parser/commit/8f67a50543dac2be4419686d909ee37bd181865b))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#265](https://github.com/wmfs/cardscript-parser/issues/265)) ([506ebd0](https://github.com/wmfs/cardscript-parser/commit/506ebd0c582a270711f5f5f252c0d02b3c28f220))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#270](https://github.com/wmfs/cardscript-parser/issues/270)) ([a7e73c8](https://github.com/wmfs/cardscript-parser/commit/a7e73c845b3a517a2c6b4dfa2a6dbd1967246563))
+* **deps-dev:** update dependency mocha to v12 ([#266](https://github.com/wmfs/cardscript-parser/issues/266)) ([b698bf1](https://github.com/wmfs/cardscript-parser/commit/b698bf14b8fbe7fbdc36848dc81f87e4647b0e4f))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#267](https://github.com/wmfs/cardscript-parser/issues/267)) ([7459f73](https://github.com/wmfs/cardscript-parser/commit/7459f73a0b2bb1767e00f18e3265e5f4c1bb380c))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#268](https://github.com/wmfs/cardscript-parser/issues/268)) ([96809ea](https://github.com/wmfs/cardscript-parser/commit/96809ea021b9c8e022a8c26afb2729c21b1ab92f))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#269](https://github.com/wmfs/cardscript-parser/issues/269)) ([f5589f2](https://github.com/wmfs/cardscript-parser/commit/f5589f2f7f4098ef5f873e14d8c5803b671b716e))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#241](https://github.com/wmfs/cardscript-parser/issues/241)) ([7acd747](https://github.com/wmfs/cardscript-parser/commit/7acd74718ebe7231c674d03d00ab1b809d2da7a7))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#272](https://github.com/wmfs/cardscript-parser/issues/272)) ([1583468](https://github.com/wmfs/cardscript-parser/commit/15834682ff73697824c17c99a449001b54380ba1))
+* use shared renovate preset [sc-34117] ([#271](https://github.com/wmfs/cardscript-parser/issues/271)) ([8a3c27c](https://github.com/wmfs/cardscript-parser/commit/8a3c27c25381f38d32fe9f9c4eaae4f1479a9a27))
+
 ## [1.4.1](https://github.com/wmfs/cardscript-parser/compare/v1.4.0...v1.4.1) (2026-08-14)
 
 ## [1.4.0](https://github.com/wmfs/cardscript-parser/compare/v1.3.0...v1.4.0) (2025-10-21)
